@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Forest Focus",
+    "tag": "Focus",
+    "duration": "02:00",
+    "description": "Deep immersion into the sounds of a distant pine forest.",
+    "imagePath": "assets/images/forest.jpg",
+    "audioPath": "assets/audio/forest.mp3",
+    "recipes": ["Breeze", "Mist", "Binaural"]
+  },
+  {
+    "id": "2",
+    "title": "Ocean Reset",
+    "tag": "Reset",
+    "duration": "03:00",
+    "description": "Slow rhythmic waves to help you recalibrate.",
+    "imagePath": "assets/images/ocean.jpg",
+    "audioPath": "assets/audio/ocean.mp3",
+    "recipes": ["Soft Rain", "Warm Light", "Mist"]
+  }
+]
